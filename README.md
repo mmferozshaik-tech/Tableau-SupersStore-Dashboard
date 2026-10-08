@@ -79,15 +79,6 @@ The dashboard helps identify:
 
 ---
 
-## 📁 Project Files
-
-```text
-Tableau-Superstore-Dashboard/
-│
-├── Superstore_Dash Board.twbx
-└── README.md
-```
-
 ### Tableau Workbook
 
 The `.twbx` file contains the Tableau workbook along with the required packaged data.
